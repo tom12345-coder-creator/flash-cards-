@@ -1,0 +1,12 @@
+<resources>
+        <string name="app_name">cards</string>
+        <string name="true_button">True</string>
+        <string name="false_button">False</string>
+        <string name="correct_toast">Correct</string>
+        <string name="incorrect_toast">Incorrect</string>
+        <string name="next_button">Next</string>
+        <string name="question_java">Java is an Object Oriented language?</string>
+        <string name="question_c">C is an interpreted language? </string>
+        <string name="question_python">Python is an interpreted language?</string>
+        <string name="question_java2">Java uses a malloc function?</string>
+</resources>
